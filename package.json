@@ -3,6 +3,7 @@
   "proxy": "http://localhost:5000",
   "author": "subhash pathak",
   "email": "subhashpathak1991@gmail.com",
+  "homepage": "http://subhash00.github.io/MERN_STACK",
   "licence": "ISC",
   "version": "1.0.0",
   "private": false,

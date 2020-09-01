@@ -5,7 +5,6 @@ import { makeStyles } from '@material-ui/styles';
 import { Drawer } from '@material-ui/core';
 import DashboardIcon from '@material-ui/icons/Dashboard';
 import PeopleIcon from '@material-ui/icons/People';
-import ShoppingBasketIcon from '@material-ui/icons/ShoppingBasket';
 import HourglassEmptyIcon from '@material-ui/icons/HourglassEmpty';
 import PhotoCameraIcon from '@material-ui/icons/PhotoCamera';
 import { SidebarNav } from './components';
@@ -48,11 +47,6 @@ const Sidebar = props => {
       title: 'Users',
       href: '/users',
       icon: <PeopleIcon />
-    },
-    {
-      title: 'Products',
-      href: '/products',
-      icon: <ShoppingBasketIcon />
     },
     {
       title: 'Blog',
