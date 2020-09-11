@@ -1,2 +1,23 @@
-# COVID_DATA
- MERN stack on fetchin COVID data from API, backend to support user login and data storage.  
+# MERN_STACK
+This is MERN stack project. Reactjs and Material-UI for frontend, Nodejs for backend, MongoDB for databse and Express server.
+This website fetches coranavirus stats for India and display the same in real time.
+
+# Preview
+
+![simple calculator](https://github.com/subhash00/MERN_STACK/blob/master/mern.gif)
+------
+# Installation
+Install the dependencies
+```sh
+$ npm install
+```
+Start server
+```sh
+$ npm start
+```
+License
+----
+MIT
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/subhash00)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@codingGuru5) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/coding-Guru) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCecHrGQQKOtWK9uOlxyUlWA)
+
