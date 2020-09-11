@@ -6,6 +6,8 @@ This website fetches coranavirus stats for India and display the same in real ti
 
 ![simple calculator](https://github.com/subhash00/MERN_STACK/blob/master/mern.gif)
 ------
+# Website
+Check the website [here](https://subhash00.github.io/MERN_STACK/#/dashboard)
 # Installation
 Install the dependencies
 ```sh
