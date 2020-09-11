@@ -8,6 +8,18 @@ This website fetches coranavirus stats for India and display the same in real ti
 ------
 # Website
 Check the website [here](https://subhash00.github.io/MERN_STACK/#/dashboard)
+
+# About
+* Frontend
+  * This frontend is made by Material-UI.
+  * To manage state the project uses Redux.
+  * This project uses fetch to get data from external API.
+  * The server runs at local host port-3000.
+* Backend
+  * Backend is supported by Express server.
+  * Once you clone this repository, you have to update your mongoDB secret key in Config file.
+  * I also JsonWebToken for auhentication of routes.
+  * The server runs at local host port-5000.
 # Installation
 Install the dependencies
 ```sh
